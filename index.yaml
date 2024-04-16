@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  contoso-motors:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-16T21:58:39.672345683Z"
+    dependencies:
+    - name: opcsimulator
+      repository: file://../opc-simulator
+      version: 0.1.0
+    - name: ovms
+      repository: file://../ovms
+      version: 0.1.0
+    description: A Helm chart to deploy components for the Contoso Motors scenario
+    digest: 940b8c86f17dff687b661e3588b692f7385571b0a6c628a7c3d335bbe936c371
+    name: contoso-motors
+    type: application
+    urls:
+    - contoso-motors-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-16T21:58:39.672465478Z"
