@@ -16,6 +16,6 @@ entries:
     name: contoso-motors
     type: application
     urls:
-    - contoso-motors-0.1.0.tgz
+    - https://github.com/mrhoads/agora-helm-repo/releases/download/contoso-motors-0.1.0/contoso-motors-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-16T21:58:39.672465478Z"
